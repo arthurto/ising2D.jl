@@ -1,2 +1,9 @@
-# ising2D.jl
-Learning how to use CUDA applied to Physics projecs
+# Monte Carlo Simulations using CUDA.jl 
+
+In this folder we will use Classical and Quantum Monte Carlo simulations 
+to study the implementation of different methods. 
+
+
+## Two Dimensional Ising Model 
+
+
